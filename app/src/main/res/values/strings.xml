@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DSPM</string>
+    <string name="plan">计划</string>
+    <string name="daily">日记本</string>
+    <string name="Sport">运动</string>
+    <string name="More">更多</string>
+</resources>
